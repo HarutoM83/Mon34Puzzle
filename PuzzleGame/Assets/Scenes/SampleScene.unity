@@ -419,7 +419,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: 1, y: 0}
+  gridPos: {x: 1, y: 3}
 --- !u!212 &68749019
 SpriteRenderer:
   serializedVersion: 2
@@ -779,7 +779,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: -2, y: 5}
+  gridPos: {x: -2, y: 4}
 --- !u!212 &140283563
 SpriteRenderer:
   serializedVersion: 2
@@ -1499,7 +1499,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: 1, y: 0}
+  gridPos: {x: 1, y: 3}
 --- !u!212 &354454814
 SpriteRenderer:
   serializedVersion: 2
@@ -1859,7 +1859,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: -6, y: 5}
+  gridPos: {x: -6, y: 4}
 --- !u!212 &390385906
 SpriteRenderer:
   serializedVersion: 2
@@ -2130,7 +2130,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: -3, y: 5}
+  gridPos: {x: -3, y: 4}
 --- !u!212 &450866157
 SpriteRenderer:
   serializedVersion: 2
@@ -2310,7 +2310,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: -4, y: 5}
+  gridPos: {x: -4, y: 4}
 --- !u!212 &455662151
 SpriteRenderer:
   serializedVersion: 2
@@ -3167,7 +3167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: 0, y: 5}
+  gridPos: {x: 0, y: 4}
 --- !u!212 &596921440
 SpriteRenderer:
   serializedVersion: 2
@@ -3347,7 +3347,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: 1, y: 0}
+  gridPos: {x: 1, y: 3}
 --- !u!212 &615296255
 SpriteRenderer:
   serializedVersion: 2
@@ -3791,7 +3791,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: -5, y: 5}
+  gridPos: {x: -5, y: 4}
 --- !u!212 &648440554
 SpriteRenderer:
   serializedVersion: 2
@@ -4151,7 +4151,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: -8, y: 5}
+  gridPos: {x: -8, y: 4}
 --- !u!212 &798681541
 SpriteRenderer:
   serializedVersion: 2
@@ -4511,7 +4511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: 1, y: 0}
+  gridPos: {x: 1, y: 3}
 --- !u!212 &826762281
 SpriteRenderer:
   serializedVersion: 2
@@ -4691,7 +4691,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: 1, y: 0}
+  gridPos: {x: 1, y: 3}
 --- !u!212 &896902925
 SpriteRenderer:
   serializedVersion: 2
@@ -4871,7 +4871,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: 1, y: 0}
+  gridPos: {x: 1, y: 3}
 --- !u!212 &959797858
 SpriteRenderer:
   serializedVersion: 2
@@ -5682,7 +5682,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: -1, y: 5}
+  gridPos: {x: -1, y: 4}
 --- !u!212 &1144987462
 SpriteRenderer:
   serializedVersion: 2
@@ -5862,7 +5862,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: 1, y: 0}
+  gridPos: {x: 1, y: 3}
 --- !u!212 &1239620250
 SpriteRenderer:
   serializedVersion: 2
@@ -7302,7 +7302,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: 1, y: 0}
+  gridPos: {x: 1, y: 3}
 --- !u!212 &1607930728
 SpriteRenderer:
   serializedVersion: 2
@@ -7662,7 +7662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: 1, y: 0}
+  gridPos: {x: 1, y: 3}
 --- !u!212 &1738625151
 SpriteRenderer:
   serializedVersion: 2
@@ -8022,7 +8022,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dca2d5f2efc3e48983f2c565407f80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseDrag
-  gridPos: {x: -7, y: 5}
+  gridPos: {x: -7, y: 4}
 --- !u!212 &1889777931
 SpriteRenderer:
   serializedVersion: 2
